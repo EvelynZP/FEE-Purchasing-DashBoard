@@ -28,7 +28,7 @@ __数据来源__：<br>
 
 
 
-## 结果展示<br>
+### 结果展示<br>
 __以下采购数量，金额，单价，差异以及采购占比都为公司采买数据（已脱敏），其余图表都为当日新发地参考菜价__<br>
 
 ![结果展示](https://github.com/EvelynZP/FEE-Purchasing-DashBoard/blob/master/Purchasing-DashBoard.jpg)
