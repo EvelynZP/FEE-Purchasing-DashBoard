@@ -13,7 +13,7 @@ __数据来源__：<br>
      1.采购部门提供的历史采购情况<br>
      2.利用Python实时爬取和处理的新发地菜品价格
 ## 目录
-+ __数据爬虫__
++ [__数据爬虫__](https://github.com/EvelynZP/FEE-Purchasing-DashBoard/blob/master/FEE-%E9%87%87%E8%B4%AD-%E6%96%B0%E5%8F%91%E5%9C%B0%E8%8F%9C%E4%BB%B7%E5%AE%9E%E6%97%B6%E6%8A%93%E5%8F%96.ipynb)
      + 定制请求
      + 解析返回数据
      + 存储数据
@@ -30,6 +30,5 @@ __数据来源__：<br>
 
 ## 结果展示<br>
 __以下采购数量，金额，单价，差异以及采购占比都为公司采买数据（已脱敏），其余图表都为当日新发地参考菜价__<br>
-
-__采购数据监控看板__<br>
+### 采购数据监控看板<br>
 ![结果展示](https://github.com/EvelynZP/FEE-Purchasing-DashBoard/blob/master/Purchasing-DashBoard.jpg)
