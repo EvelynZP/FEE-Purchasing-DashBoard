@@ -16,5 +16,5 @@ __数据来源__：<br>
 
 
 结果展示<br>
-采购数据监控看板<center><br>
-![结果展示](https://github.com/EvelynZP/Purchase-DataBoard/blob/master/%E9%87%87%E8%B4%AD%E7%9B%91%E6%8E%A7%E6%A8%A1%E6%9D%BF.jpg)
+<p align="center">采购数据监控看板</p ><center><br>
+![结果展示](https://github.com/EvelynZP/FEE-Purchasing-DashBoard/blob/master/Purchasing-DashBoard.jpg)
